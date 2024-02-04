@@ -29,7 +29,7 @@ My motivation for this project was to take what I learned from class and apply i
 
 [Go to the Usage section](##Usage)
 
-[Go to the Tests section](##Tests)
+[Go to the Tests section](##Technologies)
 
 [Go to the Tests section](##Tests)
 
