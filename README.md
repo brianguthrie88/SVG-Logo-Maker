@@ -46,7 +46,7 @@ This application is then used by a person, by answering different questions abou
 After all of that, the user can enter npm run test in the integrated terminal in order to see that the shapes tests all work.
 
 ## Technologies
-Node.js, npm, javascript, inquirer.
+Node.js, npm, javascript, inquirer, jest.
 
 ## Tests
 Run npm run test in an integrated terminal and see the tests run and all pass.
